@@ -18,6 +18,7 @@ dependencies:
   - pandas
   - scikit-learn
   - shapely
+  - geopandas
   - pip:
     - python-dotenv
     - mkdocs
